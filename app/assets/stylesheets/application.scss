@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+
+.cebianlan {
+    height: 200px;
+    border: 1px solid #e1e1e8;
+    border-radius: 5px;
+    margin: 0px 20px 30px 30px;
+    background-color: #f7f7f9;
+      }
+
+.neironglan {
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
